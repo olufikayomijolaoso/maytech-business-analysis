@@ -1,5 +1,6 @@
 # maytech-business-analysis
 Interactive Excel dashboard and business analysis report for Maytech Group, tracking ₦226M+ in profit, regional sales performance, and logistics efficiency.
+
 I recently concluded an analysis of this performance Report, and something immediately jumped out at me. Something absurd that many struggle to explain:
 Our operational efficiency is officially declining, yet the company still made a 35.9% profit compared to Last year.
 
