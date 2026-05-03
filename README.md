@@ -25,5 +25,4 @@ Strengthen Operations in Key Hubs: Immediately fix the delivery pipeline to high
 Duplicate Success (Enablement): Treat Zainab’s process not just as a solo success, but as a framework. We need to formalize her high-volume closing strategy and train other reps like Chioma and Tunde on it immediately to diversify our performer pool.
 
 Operational efficiency is not a luxury; it is the insurance policy for sustained profitability.
-![Dashboard Preview]
-(fiks dashboard.png)
+![Dashboard Preview](https://github.com/Fikayoix/maytech-business-analysis/blob/main/fiks%20dashboard.png)
