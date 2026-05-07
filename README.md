@@ -26,3 +26,7 @@ Duplicate Success (Enablement): Treat Zainab’s process not just as a solo succ
 
 Operational efficiency is not a luxury; it is the insurance policy for sustained profitability.
 ![Dashboard Preview](https://github.com/Fikayoix/maytech-business-analysis/blob/main/fiks%20dashboard.png)
+
+Here's the complete breakdown of Maytech Group Business Analysis 
+[View the MAYTECH INTERNAL AUDIT](https://github.com/olufikayomijolaoso/maytech-business-analysis/blob/main/MAYTECH%20INTERNAL%20AUDIT.pdf)
+
